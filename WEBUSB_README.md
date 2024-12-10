@@ -64,4 +64,4 @@ tinyusb example, and putting them where they best belonged in the CircuitPython 
 
 ### TODO: This needs to be reworked for dynamic USB descriptors.
 
-This project will be useful and can be improve for orther purposes
+This project will be useful and can be improve for orther purposes . 
