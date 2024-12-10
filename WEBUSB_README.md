@@ -62,6 +62,6 @@ The tinyusb examples already include a "WebUSB serial" example.
 Basically, this feature was ported into CircuitPython by pulling code snippets out of the
 tinyusb example, and putting them where they best belonged in the CircuitPython codebase.
 
-### TODO: This needs to be reworked for dynamic USB descriptors and dynamic microcontrolers
+### TODO: This needs to be reworked for dynamic USB descriptors and  microcontrolers
 
 This project will be useful and can be improve for orther purposes . 
